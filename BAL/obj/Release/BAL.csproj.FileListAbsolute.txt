@@ -1,0 +1,6 @@
+E:\RavOrganicAPI\BAL\bin\Release\BAL.dll
+E:\RavOrganicAPI\BAL\bin\Release\BAL.pdb
+E:\RavOrganicAPI\BAL\obj\Release\BAL.csproj.AssemblyReference.cache
+E:\RavOrganicAPI\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+E:\RavOrganicAPI\BAL\obj\Release\BAL.dll
+E:\RavOrganicAPI\BAL\obj\Release\BAL.pdb
